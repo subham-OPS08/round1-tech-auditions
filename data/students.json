@@ -1,0 +1,152 @@
+[
+  {
+    "student_id": "STU1001",
+    "name": "Aarav Sharma",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1002",
+    "name": "Priya Nair",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1003",
+    "name": "Rahul Verma",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1004",
+    "name": "Sneha Iyer",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1005",
+    "name": "Kiran Patel",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1006",
+    "name": "Divya Menon",
+    "department": "MECH"
+  },
+  {
+    "student_id": "STU1007",
+    "name": "Arjun Reddy",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1008",
+    "name": "Pooja Singh",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1009",
+    "name": "Vikram Joshi",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1010",
+    "name": "Nisha Kapoor",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1011",
+    "name": "Suresh Kumar",
+    "department": "MECH"
+  },
+  {
+    "student_id": "STU1012",
+    "name": "Anjali Das",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1013",
+    "name": "Rohan Mehta",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1014",
+    "name": "Kavya Pillai",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1015",
+    "name": "Aditya Bose",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1016",
+    "name": "Shruti Mishra",
+    "department": "MECH"
+  },
+  {
+    "student_id": "STU1017",
+    "name": "Deepak Rajan",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1018",
+    "name": "Meera Nambiar",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1019",
+    "name": "Saurabh Tiwari",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1020",
+    "name": "Lakshmi Venkat",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1021",
+    "name": "Amit Chauhan",
+    "department": "MECH"
+  },
+  {
+    "student_id": "STU1022",
+    "name": "Ritu Gupta",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1023",
+    "name": "Manoj Shetty",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1024",
+    "name": "Ananya Krishnan",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1025",
+    "name": "Varun Malhotra",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1026",
+    "name": "Preeti Agarwal",
+    "department": "CSE"
+  },
+  {
+    "student_id": "STU1027",
+    "name": "Nikhil Bhatt",
+    "department": "MECH"
+  },
+  {
+    "student_id": "STU1028",
+    "name": "Swati Rao",
+    "department": "ECE"
+  },
+  {
+    "student_id": "STU1029",
+    "name": "Harish Nair",
+    "department": "AIML"
+  },
+  {
+    "student_id": "STU1030",
+    "name": "Tanvi Shah",
+    "department": "CSE"
+  }
+]

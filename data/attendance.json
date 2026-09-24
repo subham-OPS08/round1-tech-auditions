@@ -1,0 +1,30 @@
+[
+  {
+    "attendance_id": "ATT-4D338AEA",
+    "student_id": "STU1001",
+    "request_id": "req_f4623958-b2e0-408c-8b29-3068586807b8",
+    "checked_in_at": "2026-09-24T06:54:06.572Z",
+    "checked_in_by": "admin"
+  },
+  {
+    "attendance_id": "ATT-7A95EC03",
+    "student_id": "STU1020",
+    "request_id": "req_b9fb9bb3-27f6-434a-80dc-63a74f055bd8",
+    "checked_in_at": "2026-09-24T06:57:12.569Z",
+    "checked_in_by": "admin"
+  },
+  {
+    "attendance_id": "ATT-E78D3B71",
+    "student_id": "STU1002",
+    "request_id": "req_4ee42e1b-8a35-44c1-aa1e-14f01d3ff154",
+    "checked_in_at": "2026-09-24T07:00:59.350Z",
+    "checked_in_by": "admin"
+  },
+  {
+    "attendance_id": "ATT-2446A59A",
+    "student_id": "STU1003",
+    "request_id": "req_5bbbec58-c5c8-4a9e-8831-0d4031a0081f",
+    "checked_in_at": "2026-09-24T07:03:00.280Z",
+    "checked_in_by": "admin"
+  }
+]
